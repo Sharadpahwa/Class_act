@@ -79,46 +79,8 @@ Savani bhakti: 1899423 - "TRY UNTILL YOU SUCESS."
 1893840 :"cegep montreal"
 1893840 :"cegep montreal"
 Usha Lakhani:1894007: “hello my class...”
-<<<<<<< HEAD
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-=======
 1893404:"life is happy"
 1893584:Shilpa "enjoy every minute of life"
->>>>>>> 2d1448003642fd221eae5f24bc3032803b830a6e
 1894259:"live the way you love"
 1892957 : "Nobody gets to live life backwards"
 my id : 1893991 : " mad 310"
