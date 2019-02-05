@@ -9,10 +9,6 @@ Narendra Kumar Muppuri: 1894324 - "Get busy living or get busy dying"
 My id Sharadpahwa : 1893664:"Music is life "
 1893068 : Eat repeat sleep
 
-
-
-
-
 Narendra Kumar Muppuri: 1894324 - "Get busy living or get busy dying"
 Keval(183713) : "the person never be successful who run away from their work......!!!!"
 
@@ -52,7 +48,7 @@ Narendra Kumar Muppuri: 1894324 - "Get busy living or get busy dying"
 
 
 Narendra Kumar Muppuri: 1894324 - "Get busy living or get busy dying"
-<<<<<<< HEAD
+
 Keval(183713) : "the person never be successful who run away from their work......!!!!"
 Mahesh Chittimelli:1893655: “First we eat, then we do everything else.”
  
@@ -174,14 +170,7 @@ Savani bhakti: 1899423 - "TRY UNTILL YOU SUCESS."
 
 
 
-
 Usha Lakhani:1894007: “hello my class...”
-
-
-
-
-
-
 
 
 
@@ -190,24 +179,10 @@ Narender reddy:1893402 :"Nothing will work unless you do".
 
 akhilreddymedapati:1893768:"all is well"
 
-
-<<<<<<< HEAD
-
-
 Usha Lakhani:1894007: “hello my class...”
  
 prabhjeet kaur :1893905:"mobile application Development "
   
-=======
-
->>>>>>> 80e153acd5b23630df63f657d725ee39d545ee35
-
-
-
-
-
-
-
 
 
 
@@ -224,8 +199,6 @@ Usha Lakhani:1894007: “hello my class...”
 
 
 
-
-
 1894417:"life is not easy"
 
 
@@ -237,15 +210,6 @@ Usha Lakhani:1894007: “hello my class...”
 
 
 
-
-
-
-
-
-
-
-
-<<<<<<< HEAD
 
 1893404:"life is happy"
 1893584:Shilpa "enjoy every minute of life"
@@ -260,23 +224,6 @@ Usha Lakhani:1894007: “hello my class...”
 
 1894417:"life is not easy"
 1893905:prabhjeet kaur 
-=======
-
-
->>>>>>> 80e153acd5b23630df63f657d725ee39d545ee35
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
@@ -302,43 +249,28 @@ my id : 1893991 : " life is a race..RUN.............RUN............RUN..........
 
 
 
-
-
 <<<<<<< HEAD
 1893888: Life is 10% what happens to you and 90% how you react to it.  
-
-
-
-
-
-
-
-
-<<<<<<< HEAD
-
-
 
 
 
 
 1893404:"life is happy"
 1893584:Shilpa "enjoy every minute of life"
-=======
->>>>>>> 80e153acd5b23630df63f657d725ee39d545ee35
-=======
+
 1894417:"no one change my life "
 
->>>>>>> 5b5d50c3d86683806caaf292a81078bd3032929c
-
-
-1893888: Life is 10% what happens to you and 90% how you react to it.  
 
 
 
 1893888: Life is 10% what happens to you and 90% how you react to it.  
 
 
-<<<<<<< HEAD
+
+1893888: Life is 10% what happens to you and 90% how you react to it.  
+
+
+
 Usha Lakhani:1894007: “hello my class...”
 my id : 1893991 : " mad 310"
 1893888: Life is 10% what happens to you and 90% how you react to it. 
@@ -350,14 +282,11 @@ my id : 1893991 : " life is a race..RUN.............RUN............RUN..........
 
 
 
-=======
 
 
 1894417:"no one change my life "
 
 
->>>>>>> 80e153acd5b23630df63f657d725ee39d545ee35
-
 
 1893888: Life is 10% what happens to you and 90% how you react to it.  
 
@@ -371,7 +300,6 @@ my id : 1893991 : " life is a race..RUN.............RUN............RUN..........
 
 
 
-<<<<<<< HEAD
 
 1894417:"no one change my life
 1893888: Life is 10% what happens to you and 90% how you react to it.  
@@ -381,23 +309,14 @@ my id : 1893991 : " life is a race..RUN.............RUN............RUN..........
 
 
 1893888: Life is 10% what happens to you and 90% how you react to it.  
-=======
+
 
 1893975-"life goes on"
 
 
->>>>>>> 80e153acd5b23630df63f657d725ee39d545ee35
-
-
-
-
-<<<<<<< HEAD
- 
-1893888: Life is 10% what happens to you and 90% how you react to it.  
 
  
-=======
-
+1893888: Life is 10% what happens to you and 90% how you react to it.  
 
 1893888: Life is 10% what happens to you and 90% how you react to it.  
 
@@ -406,29 +325,15 @@ my id : 1893991 : " life is a race..RUN.............RUN............RUN..........
 
 
 1893888: Life is 10% what happens to you and 90% how you react to it.  
-<<<<<<< HEAD
-
-
->>>>>>> 80e153acd5b23630df63f657d725ee39d545ee35
-=======
->>>>>>> 5b5d50c3d86683806caaf292a81078bd3032929c
-
 
 my id : 1893991 : " mad 310"
 
  1893683 :"Life is more beautiful without wife"
 
-<<<<<<< HEAD
+
 Arun Kumbappillil Ravi : 1893683 :"Life is more beautiful without wife"
 
 <<<<<<< HEAD
 1893975-"life goes on"
  1893905 :prabhjeet kaur:"good"
-=======
-=======
->>>>>>> 5b5d50c3d86683806caaf292a81078bd3032929c
 
-1893975-"life goes on".....
-
-
->>>>>>> 80e153acd5b23630df63f657d725ee39d545ee35
