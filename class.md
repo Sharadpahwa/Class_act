@@ -1,34 +1,5 @@
 This is the class activity
 
-
-
-My id Sharadpahwa : 1893664
- Parwinder 1893914 "Be happy for this moment. This moment is your life"
-
-My id Sharadpahwa : 1893664
- 
-
-
-
-
-<<<<<<< HEAD
-
-
-
-MY id : Karan verma:1893068
-
-My id Sharadpahwa : 1893664
-
-<<<<<<< HEAD
- 
-=======
-
-=======
->>>>>>> 5b5d50c3d86683806caaf292a81078bd3032929c
-
-
-
->>>>>>> 80e153acd5b23630df63f657d725ee39d545ee35
 my id Parwinder singh  : 1893914 earn money for enjoy not for saving
 
 Narendra Kumar Muppuri: 1894324 - "Get busy living or get busy dying"
