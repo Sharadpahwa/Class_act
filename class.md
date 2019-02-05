@@ -11,6 +11,7 @@ My id Sharadpahwa : 1893664
 
 
 
+<<<<<<< HEAD
 
 
 
@@ -22,28 +23,24 @@ My id Sharadpahwa : 1893664
  
 =======
 
+=======
+>>>>>>> 5b5d50c3d86683806caaf292a81078bd3032929c
 
-
-
-
-MY id : Karan verma:1893068
-
-My id Sharadpahwa : 1893664
 
 
 >>>>>>> 80e153acd5b23630df63f657d725ee39d545ee35
 my id Parwinder singh  : 1893914 earn money for enjoy not for saving
-MY id : Karan verma:1893068
+
 Narendra Kumar Muppuri: 1894324 - "Get busy living or get busy dying"
 
 1894324: "Get busy living or get busy dying"
 1893655: “First we eat, then we do everything else.”
 My id Sharadpahwa : 1893664:"Music is life "
-MY id : Karan verma:1893068 : Eat repeat sleep
+1893068 : Eat repeat sleep
 
 
 
-MY id : Karan verma:1893068
+
 
 Narendra Kumar Muppuri: 1894324 - "Get busy living or get busy dying"
 Keval(183713) : "the person never be successful who run away from their work......!!!!"
@@ -65,12 +62,10 @@ Keval(183713) : "the person never be successful who run away from their work....
 Keval(183713) : "the person never be successful who run away from their work......!!!!"
 
 my id Parwinder singh  : 1893914 Be happy for this moment. This moment is your life.
-MY id : Karan verma:1893068
+
 1894324: "Get busy living or get busy dying"
 1893655: “First we eat, then we do everything else.”
-My id Sharadpahwa : 1893664
-MY id : Karan verma:1893068 : Eat repeat sleep
-MY id : Karan verma:1893068
+
 Narendra Kumar Muppuri: 1894324 - "Get busy living or get busy dying"
 Keval(183713) : "the person never be successful who run away from their work......!!!!"
 1893681 : empty vessels make more noise
@@ -84,9 +79,7 @@ Narender reddy:1893402 :"Nothing will work unless you do".
 Savani bhakti: 1899423 - "TRY UNTILL YOU SUCESS."
 Narendra Kumar Muppuri: 1894324 - "Get busy living or get busy dying"
 
-My id Sharadpahwa : 1893664
-MY id : Karan verma:1893068 : Eat repeat sleep
-MY id : Karan verma:1893068
+
 Narendra Kumar Muppuri: 1894324 - "Get busy living or get busy dying"
 <<<<<<< HEAD
 Keval(183713) : "the person never be successful who run away from their work......!!!!"
@@ -114,7 +107,6 @@ santhosh kumarcheea:1893831:"life is all about laugh"
 santhosh kumarcheea:1893831:"life is all about laugh"
 
 Narender reddy:1893402 :"Nothing will work unless you do".
-MY id : Karan verma:1893068
 
 Narendra Kumar Muppuri: 1894324 - "Get busy living or get busy dying"
 
@@ -167,7 +159,7 @@ Narender reddy:1893402 :"Nothing will work unless you do".
 
 
 
-
+1893636 : "Enjoy Every Moment of Your Life"
 
 
 
@@ -186,6 +178,14 @@ Savani bhakti: 1899423 - "TRY UNTILL YOU SUCESS."
 
 
 
+
+Mahesh Chittimelli:1893655: “First we eat, then we do everything else.”
+
+akhilreddymedapati 1893768
+
+Arun : 1893683 : "I am hungry"
+
+
 Savani bhakti: 1899423 - "TRY UNTILL YOU SUCESS."
 Narender reddy:1893402 :"Nothing will work unless you do".
  
@@ -199,7 +199,7 @@ Savani bhakti: 1899423 - "TRY UNTILL YOU SUCESS."
 Savani bhakti: 1899423 - "TRY UNTILL YOU SUCESS."
 1893840 :"cegep montreal"
  
- 
+
 
 
 
@@ -215,6 +215,9 @@ Usha Lakhani:1894007: “hello my class...”
 
 
 
+Narender reddy:1893402 :"Nothing will work unless you do".
+
+akhilreddymedapati:1893768:"all is well"
 
 
 <<<<<<< HEAD
@@ -330,7 +333,7 @@ my id : 1893991 : " life is a race..RUN.............RUN............RUN..........
 
 
 
-
+<<<<<<< HEAD
 1893888: Life is 10% what happens to you and 90% how you react to it.  
 
 
@@ -351,6 +354,10 @@ my id : 1893991 : " life is a race..RUN.............RUN............RUN..........
 1893584:Shilpa "enjoy every minute of life"
 =======
 >>>>>>> 80e153acd5b23630df63f657d725ee39d545ee35
+=======
+1894417:"no one change my life "
+
+>>>>>>> 5b5d50c3d86683806caaf292a81078bd3032929c
 
 
 1893888: Life is 10% what happens to you and 90% how you react to it.  
@@ -377,9 +384,12 @@ my id : 1893991 : " life is a race..RUN.............RUN............RUN..........
 
 1894417:"no one change my life "
 
+
 >>>>>>> 80e153acd5b23630df63f657d725ee39d545ee35
 
+
 1893888: Life is 10% what happens to you and 90% how you react to it.  
+
 
 
 
@@ -425,19 +435,29 @@ my id : 1893991 : " life is a race..RUN.............RUN............RUN..........
 
 
 1893888: Life is 10% what happens to you and 90% how you react to it.  
+<<<<<<< HEAD
 
 
 >>>>>>> 80e153acd5b23630df63f657d725ee39d545ee35
+=======
+>>>>>>> 5b5d50c3d86683806caaf292a81078bd3032929c
 
 
+my id : 1893991 : " mad 310"
 
+ 1893683 :"Life is more beautiful without wife"
+
+<<<<<<< HEAD
 Arun Kumbappillil Ravi : 1893683 :"Life is more beautiful without wife"
 
 <<<<<<< HEAD
 1893975-"life goes on"
  1893905 :prabhjeet kaur:"good"
 =======
+=======
+>>>>>>> 5b5d50c3d86683806caaf292a81078bd3032929c
 
-1893975-"life goes on".
+1893975-"life goes on".....
+
 
 >>>>>>> 80e153acd5b23630df63f657d725ee39d545ee35
