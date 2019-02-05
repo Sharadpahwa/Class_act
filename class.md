@@ -266,27 +266,10 @@ my id : 1893991 : " life is a race..RUN.............RUN............RUN..........
 
 
 
-<<<<<<< HEAD
-=======
-
-
->>>>>>> 80e153acd5b23630df63f657d725ee39d545ee35
-1893888: Life is 10% what happens to you and 90% how you react to it.  
-
-
-
-
-
-
-
-
-<<<<<<< HEAD
-
 
 1894417:"no one change my life "
-=======
 
->>>>>>> 80e153acd5b23630df63f657d725ee39d545ee35
+
 
 1893888: Life is 10% what happens to you and 90% how you react to it.  
 
@@ -298,18 +281,15 @@ my id : 1893991 : " life is a race..RUN.............RUN............RUN..........
 
 
 1894417:"no one change my life "
-<<<<<<< HEAD
-=======
 
->>>>>>> 80e153acd5b23630df63f657d725ee39d545ee35
+
+
 
 1893888: Life is 10% what happens to you and 90% how you react to it.  
 
 
-<<<<<<< HEAD
-=======
 
->>>>>>> 80e153acd5b23630df63f657d725ee39d545ee35
+
 1893888: Life is 10% what happens to you and 90% how you react to it.  
 
 
@@ -334,13 +314,6 @@ my id : 1893991 : " life is a race..RUN.............RUN............RUN..........
 
 
 1893888: Life is 10% what happens to you and 90% how you react to it.  
-
-<<<<<<< HEAD
-=======
-
->>>>>>> 80e153acd5b23630df63f657d725ee39d545ee35
-
-
 
  1893683 :"Life is more beautiful without wife"
 
