@@ -19,6 +19,7 @@ Narendra Kumar Muppuri: 1894324 - "Get busy living or get busy dying"
 
 Keval(183713) : "the person never be successful who run away from their work......!!!!"
 
+1893681 : empty vessels make more noise
 
 
 
