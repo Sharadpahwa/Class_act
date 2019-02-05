@@ -293,4 +293,9 @@ my id : 1893991 : " life is a race..RUN.............RUN............RUN..........
 
 1893888: Life is 10% what happens to you and 90% how you react to it.  
 
->>>>>>> 0a066d53608d222c0d18ca8b457641e7472460a3
+>>>>>>> 0a066d53608d222c0d18ca8b457641e7472460a
+
+
+
+
+1893975-"life goes on"
