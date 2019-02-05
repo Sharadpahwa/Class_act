@@ -13,7 +13,13 @@ MY id : Karan verma:1893068 : Eat repeat sleep
 MY id : Karan verma:1893068
 Narendra Kumar Muppuri: 1894324 - "Get busy living or get busy dying"
 
-Rupinder Singh : 1893636 - "Learn to Enjoy Every Minute of Your Life"
+
+
+
+
+
+
+
 
 
 Mahesh Chittimelli:1893655: “First we eat, then we do everything else.”
@@ -22,6 +28,10 @@ Chandan volkaji : 1893288 - "Love the way you live, Live the way you Love"
 
 
 
+Rupinder Singh : 1893636 - "Learn to Enjoy Every Minute of Your Life"
 
 
+sawaran Raj bachu :1894417:"east or west home is best"
+
+santhosh kumar cheera:1893831:"hbdfgysgd"
 
