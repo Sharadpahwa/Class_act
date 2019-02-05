@@ -1,6 +1,6 @@
 This is the class activity
 My id Sharadpahwa : 1893664
-<<<<<<< HEAD
+ 
 my id Parwinder singh  : 1893914 earn money for enjoy not for saving
 MY id : Karan verma:1893068
 Narendra Kumar Muppuri: 1894324 - "Get busy living or get busy dying"
@@ -52,12 +52,11 @@ MY id : Karan verma:1893068
 Narendra Kumar Muppuri: 1894324 - "Get busy living or get busy dying"
 Keval(183713) : "the person never be successful who run away from their work......!!!!"
 Mahesh Chittimelli:1893655: “First we eat, then we do everything else.”
-<<<<<<< HEAD
+ 
 my id:1893905 Prabhjeet kaur-"ALWAYS BE HAPPY"
-
-=======
+ 
 Arun : 1893683 : "I am hungry"
->>>>>>> 5150b73f35c57d25881743591126d61c8f475cf1
+ 
 Chandan volkaji : 1893288 - "Love the way you live, Live the way you Love"
 sawaran Raj bachu :1894417:"east or west home is best"
 1894324: "Get busy living or get busy dying"
@@ -81,14 +80,15 @@ Savani bhakti: 1899423 - "TRY UNTILL YOU SUCESS."
 Narender reddy:1893402 :"Nothing will work unless you do".
 <<<<<<< HEAD
 prabhjeet kaur:1893905:" love is life"
-=======
+ 
 savani bhakti: 1899423 - "TRY UNTILL YOU SUCESS."
 1893768:"all is well"
 Savani bhakti: 1899423 - "TRY UNTILL YOU SUCESS."
 Savani bhakti: 1899423 - "TRY UNTILL YOU SUCESS."
 1893840 :"cegep montreal"
 Usha Lakhani:1894007: “hello my class...”
-<<<<<<< HEAD
+prabhjeet kaur :1893905:"mobile application"
+ 
 
 
 
