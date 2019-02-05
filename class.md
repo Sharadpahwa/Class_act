@@ -19,9 +19,24 @@ santhosh kumar cheera:1893831:"hbdfgysgd"
 santhosh kumarcheea:1893831:"life is all about laugh"
 Narender reddy:1893402 :"Nothing will work unless you do".
 Savani bhakti: 1899423 - "TRY UNTILL YOU SUCESS."
+Usha Lakhani:1894007: “hello my class...”
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
 
 
 1892957 : "Nobody gets to live life backwards"
+
