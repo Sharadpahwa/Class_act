@@ -2,7 +2,7 @@ This is the class activity
 
 
 My id Sharadpahwa : 1893664
-my id Parwinder singh  : 1893914 "Be happy for this moment. This moment is your life"
+ Parwinder 1893914 "Be happy for this moment. This moment is your life"
 MY id : Karan verma:1893068
 
 My id Sharadpahwa : 1893664
