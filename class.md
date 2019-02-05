@@ -24,8 +24,8 @@ Keval(183713) : "the person never be successful who run away from their work....
 
 
 
-1893655: “First we eat, then we do everything else.”
-1893683 : "I am hungry"
+Mahesh Chittimelli:1893655: “First we eat, then we do everything else.”
+Arun : 1893683 : "I am hungry"
 
 
 Chandan volkaji : 1893288 - "Love the way you live, Live the way you Love"
@@ -39,7 +39,7 @@ sawaran Raj bachu :1894417:"east or west home is best"
 
 
 
-santhosh kumar cheera:1893831:"hbdfgysgd"
+santhosh kumarcheea:1893831:"life is all about laugh"
 <<<<<<< HEAD
 
 =======
