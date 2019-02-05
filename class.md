@@ -8,5 +8,7 @@ MY id : Karan verma:1893068
 1893655: “First we eat, then we do everything else.”
 
 
+
+
 Usha Lakhani:1894007: “hello my class...”
 
