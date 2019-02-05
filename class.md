@@ -101,6 +101,13 @@ santhosh kumarcheea:1893831:"life is all about laugh"
 
 Narender reddy:1893402 :"Nothing will work unless you do".
 
+1893768:"all is well"
+
+
+
+Savani bhakti: 1899423 - "TRY UNTILL YOU SUCESS."
+
+
 
 
 
@@ -109,14 +116,7 @@ Savani bhakti: 1899423 - "TRY UNTILL YOU SUCESS."
 
 
 
-
-
-
-Savani bhakti: 1899423 - "TRY UNTILL YOU SUCESS."
-
-
-
-my id :1893840 :"cegep montreal"
+1893840 :"cegep montreal"
 
 
 
@@ -134,6 +134,35 @@ Usha Lakhani:1894007: “hello my class...”
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1894259:"live the way you love"
+
+
+
+
+
+
+
 1892957 : "Nobody gets to live life backwards"
 
 
@@ -143,34 +172,10 @@ Usha Lakhani:1894007: “hello my class...”
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<<<<<<< HEAD
 
 my id : 1893991 : " mad 310"
 
+=======
+my id : 1893991 : " life is a race..RUN.............RUN............RUN..........."
+>>>>>>> 22c4ebb39ef7df79dec6fdb283244e5085a599f4
