@@ -98,7 +98,7 @@ Savani bhakti: 1899423 - "TRY UNTILL YOU SUCESS."
 
 
 
-1893840 :"Life is beautifull"
+1893840 :"cegep montreal"
 
 
 
@@ -156,4 +156,4 @@ Usha Lakhani:1894007: “hello my class...”
 
 
 
-my id : 1893991 : " mad 310"
+my id : 1893991 : " life is a race..RUN.............RUN............RUN..........."
