@@ -361,8 +361,8 @@ my id : 1893991 : " life is a race..RUN.............RUN............RUN..........
 
 
 
-Arun Kumbappillil Ravi : 1893683 :"Life is more beautiful without wife"
+ 1893683 :"Life is more beautiful without wife"
 
 
-1893975-"life goes on".
+1893975-"life goes on"...
 
