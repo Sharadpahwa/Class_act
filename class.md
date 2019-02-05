@@ -1,40 +1,69 @@
 This is the class activity
 
 
+
+My id Sharadpahwa : 1893664
+ Parwinder 1893914 "Be happy for this moment. This moment is your life"
+
 My id Sharadpahwa : 1893664
  
 
 
 
-my id Parwinder singh  : 1893914 "Be happy for this moment. This moment is your life"
+
+
+
+
 MY id : Karan verma:1893068
 
 My id Sharadpahwa : 1893664
 
+<<<<<<< HEAD
  
+=======
+
+
+
+
+
+MY id : Karan verma:1893068
+
+My id Sharadpahwa : 1893664
+
+
+>>>>>>> 80e153acd5b23630df63f657d725ee39d545ee35
 my id Parwinder singh  : 1893914 earn money for enjoy not for saving
 MY id : Karan verma:1893068
 Narendra Kumar Muppuri: 1894324 - "Get busy living or get busy dying"
-Mahesh Chittimelli:1893655: “First we eat, then we do everything else.”
+
 1894324: "Get busy living or get busy dying"
 1893655: “First we eat, then we do everything else.”
 My id Sharadpahwa : 1893664:"Music is life "
 MY id : Karan verma:1893068 : Eat repeat sleep
+
+
+
 MY id : Karan verma:1893068
+
 Narendra Kumar Muppuri: 1894324 - "Get busy living or get busy dying"
 Keval(183713) : "the person never be successful who run away from their work......!!!!"
-Mahesh Chittimelli:1893655: “First we eat, then we do everything else.”
-Arun : 1893683 : "I am hungry"
+
 Chandan volkaji : 1893288 - "Love the way you live, Live the way you Love"
 sawaran Raj bachu :1894417:"east or west home is best"
-santhosh kumarcheea:1893831:"life is all about laugh"
+
 Narender reddy:1893402 :"Nothing will work unless you do".
 1893888 : "Life is 10% what happens to you and 90% how you react to it. "
 Savani bhakti: 1899423 - "TRY UNTILL YOU SUCESS."
 Narendra Kumar Muppuri: 1894324 - "Get busy living or get busy dying"
+
+
+1893681 : empty vessels make more noise
+
+
 Keval(183713) : "the person never be successful who run away from their work......!!!!"
 1893681 : empty vessels make more noise
 Keval(183713) : "the person never be successful who run away from their work......!!!!"
+
 my id Parwinder singh  : 1893914 Be happy for this moment. This moment is your life.
 MY id : Karan verma:1893068
 1894324: "Get busy living or get busy dying"
@@ -46,8 +75,7 @@ Narendra Kumar Muppuri: 1894324 - "Get busy living or get busy dying"
 Keval(183713) : "the person never be successful who run away from their work......!!!!"
 1893681 : empty vessels make more noise
 Keval(183713) : "the person never be successful who run away from their work......!!!!"
-Mahesh Chittimelli:1893655: “First we eat, then we do everything else.”
-Arun : 1893683 : "I am hungry"
+
 Chandan volkaji : 1893288 - "Love the way you live, Live the way you Love"
 sawaran Raj bachu :1894417:"east or west home is best"
 santhosh kumar cheera:1893831:"hbdfgysgd"
@@ -55,11 +83,12 @@ santhosh kumarcheea:1893831:"life is all about laugh"
 Narender reddy:1893402 :"Nothing will work unless you do".
 Savani bhakti: 1899423 - "TRY UNTILL YOU SUCESS."
 Narendra Kumar Muppuri: 1894324 - "Get busy living or get busy dying"
-Mahesh Chittimelli:1893655: “First we eat, then we do everything else.”
+
 My id Sharadpahwa : 1893664
 MY id : Karan verma:1893068 : Eat repeat sleep
 MY id : Karan verma:1893068
 Narendra Kumar Muppuri: 1894324 - "Get busy living or get busy dying"
+<<<<<<< HEAD
 Keval(183713) : "the person never be successful who run away from their work......!!!!"
 Mahesh Chittimelli:1893655: “First we eat, then we do everything else.”
  
@@ -67,124 +96,71 @@ my id:1893905 Prabhjeet kaur-"ALWAYS BE HAPPY"
  
 Arun : 1893683 : "I am hungry"
  
+=======
+
+>>>>>>> 80e153acd5b23630df63f657d725ee39d545ee35
 Chandan volkaji : 1893288 - "Love the way you live, Live the way you Love"
 sawaran Raj bachu :1894417:"east or west home is best"
 1894324: "Get busy living or get busy dying"
 1893655: “First we eat, then we do everything else.”
-santhosh kumarcheea:1893831:"life is all about laugh"
-santhosh kumarcheea:1893831:"life is all about laugh"
-Narender reddy:1893402 :"Nothing will work unless you do".
 
+
+
+santhosh kumarcheea:1893831:"life is all about laugh"
+santhosh kumarcheea:1893831:"life is all about laugh"
+
+
+santhosh kumarcheea:1893831:"life is all about laugh"
+santhosh kumarcheea:1893831:"life is all about laugh"
+
+Narender reddy:1893402 :"Nothing will work unless you do".
 MY id : Karan verma:1893068
 
+Narendra Kumar Muppuri: 1894324 - "Get busy living or get busy dying"
+
+Keval(183713) : "the person never be successful who run away from their work......!!!!"
+
+1893681 : empty vessels make more noise
+
+Narendra Kumar Muppuri: 1894324 - "Get busy living or get busy dying"
 
 
+1893681 : empty vessels make more noise
+Narendra Kumar Muppuri: 1894324 - "Get busy living or get busy dying"
 
-
+1893681 : empty vessels make more noise
 
 
 Keval(183713) : "the person never be successful who run away from their work......!!!!"
 
 
 
-1893636 - "Learn to Enjoy Every Minute of Your Life"
+Narendra Kumar Muppuri: 1894324 - "Get busy living or get busy dying"
+Keval(183713) : "the person never be successful who run away from their work......!!!!"
+1893681 : empty vessels make more noise
+
+Keval(183713) : "the person never be successful who run away from their work......!!!!"
 
 
 
+Narendra Kumar Muppuri: 1894324 - "Get busy living or get busy dying"
+Keval(183713) : "the person never be successful who run away from their work......!!!!"
 
-
-
+1893681 : empty vessels make more noise
 
 Mahesh Chittimelli:1893655: “First we eat, then we do everything else.”
 Arun : 1893683 : "I am hungry"
 
+1893681 : empty vessels make more noise
+
 
 Chandan volkaji : 1893288 - "Love the way you live, Live the way you Love"
-
-
-
-
-
-
-
-
-
-
 
 sawaran Raj bachu :1894417:"east or west home is best"
+1893831:"live lyf king size"
 
-
-
-santhosh kumar cheera:1893831:"hbdfgysgd"
-
-
-
-
-Narender reddy:1893402 :"Nothing will work unless you do".
-
-
-Savani bhakti: 1899423 - "TRY UNTILL YOU SUCESS."
-
-
-
-
-
-
-
-
-
-
-MY id : Karan verma:1893068
-
-Narendra Kumar Muppuri: 1894324 - "Get busy living or get busy dying"
-
-Keval(183713) : "the person never be successful who run away from their work......!!!!"
-
-1893681 : empty vessels make more noise
-
-
-Narendra Kumar Muppuri: 1894324 - "Get busy living or get busy dying"
-
-Narendra Kumar Muppuri: 1894324 - "Get busy living or get busy dying"
-Keval(183713) : "the person never be successful who run away from their work......!!!!"
-
-1893681 : empty vessels make more noise
-
-
-
-
-
-Narendra Kumar Muppuri: 1894324 - "Get busy living or get busy dying"
-
-
-
-
-1893681 : empty vessels make more noise
-
-Keval(183713) : "the person never be successful who run away from their work......!!!!"
-
-
-
-
-Narendra Kumar Muppuri: 1894324 - "Get busy living or get busy dying"
-
-Keval(183713) : "the person never be successful who run away from their work......!!!!"
-1893681 : empty vessels make more noise
-Mahesh Chittimelli:1893655: “First we eat, then we do everything else.”
-Arun : 1893683 : "I am hungry"
-Chandan volkaji : 1893288 - "Love the way you live, Live the way you Love"
  1894417:"east or west home is best"
 santhosh kumarcheea:1893831:"life is all about laugh"
-
-
-
-
-Narender reddy:1893402 :"Nothing will work unless you do".
-
-
-
-
-
 
 Narender reddy:1893402 :"Nothing will work unless you do".
 1894417:"life cannot be changed "
@@ -217,32 +193,6 @@ prabhjeet kaur:1893905:" love is life"
  
 savani bhakti: 1899423 - "TRY UNTILL YOU SUCESS."
 1893768:"all is well"
-
-
-
-
-
-Savani bhakti: 1899423 - "TRY UNTILL YOU SUCESS."
-
-
-
-
-
-
-1893831:"nothing is impossible"
-
-
-
-
-Savani bhakti: 1899423 - "TRY UNTILL YOU SUCESS."
-
-
-
-1893840 :"cegep montreal"
-
-
-
-
 Savani bhakti: 1899423 - "TRY UNTILL YOU SUCESS."
 
  
@@ -255,33 +205,28 @@ Savani bhakti: 1899423 - "TRY UNTILL YOU SUCESS."
 
 
 Usha Lakhani:1894007: “hello my class...”
+
+
+
+
+
+
+
+
+
+
+
+
+<<<<<<< HEAD
+
+
+Usha Lakhani:1894007: “hello my class...”
  
 prabhjeet kaur :1893905:"mobile application Development "
   
+=======
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+>>>>>>> 80e153acd5b23630df63f657d725ee39d545ee35
 
 
 
@@ -301,30 +246,50 @@ Savani bhakti: 1899423 - "TRY UNTILL YOU SUCESS."
 1893840 :"cegep montreal"
 1893840 :"cegep montreal"
 Usha Lakhani:1894007: “hello my class...”
+
+
+
+
+
+
+1894417:"life is not easy"
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<<<<<<< HEAD
+
+1893404:"life is happy"
+1893584:Shilpa "enjoy every minute of life"
+
+
+Savani bhakti: 1899423 - "TRY UNTILL YOU SUCESS."
+1893840 :"cegep montreal"
+1893840 :"cegep montreal"
+Usha Lakhani:1894007: “hello my class...”
  
 
 
 1894417:"life is not easy"
 1893905:prabhjeet kaur 
+=======
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+>>>>>>> 80e153acd5b23630df63f657d725ee39d545ee35
 
 
 
@@ -354,7 +319,48 @@ my id : 1893991 : " mad 310"
 
 
 my id : 1893991 : " life is a race..RUN.............RUN............RUN..........."
+Usha Lakhani:1894007: “hello my class...”
+my id : 1893991 : " mad 310"
+1893888: Life is 10% what happens to you and 90% how you react to it. 
+1893404:"life is happy"
+1894259:"live the way you love"
+my id : 1893991 : " life is a race..RUN.............RUN............RUN..........."
 
+
+
+
+
+
+1893888: Life is 10% what happens to you and 90% how you react to it.  
+
+
+
+
+
+
+
+
+<<<<<<< HEAD
+
+
+
+
+
+
+1893404:"life is happy"
+1893584:Shilpa "enjoy every minute of life"
+=======
+>>>>>>> 80e153acd5b23630df63f657d725ee39d545ee35
+
+
+1893888: Life is 10% what happens to you and 90% how you react to it.  
+
+
+
+1893888: Life is 10% what happens to you and 90% how you react to it.  
+
+
+<<<<<<< HEAD
 Usha Lakhani:1894007: “hello my class...”
 my id : 1893991 : " mad 310"
 1893888: Life is 10% what happens to you and 90% how you react to it. 
@@ -366,16 +372,25 @@ my id : 1893991 : " life is a race..RUN.............RUN............RUN..........
 
 
 
+=======
+
+
+1894417:"no one change my life "
+
+>>>>>>> 80e153acd5b23630df63f657d725ee39d545ee35
 
 1893888: Life is 10% what happens to you and 90% how you react to it.  
 
 
 
+1893888: Life is 10% what happens to you and 90% how you react to it.  
+
+
+1893888: Life is 10% what happens to you and 90% how you react to it.  
 
 
 
-
-
+<<<<<<< HEAD
 
 1894417:"no one change my life
 1893888: Life is 10% what happens to you and 90% how you react to it.  
@@ -385,16 +400,44 @@ my id : 1893991 : " life is a race..RUN.............RUN............RUN..........
 
 
 1893888: Life is 10% what happens to you and 90% how you react to it.  
+=======
+
+1893975-"life goes on"
+
+
+>>>>>>> 80e153acd5b23630df63f657d725ee39d545ee35
 
 
 
 
+<<<<<<< HEAD
  
 1893888: Life is 10% what happens to you and 90% how you react to it.  
 
  
+=======
+
+
+1893888: Life is 10% what happens to you and 90% how you react to it.  
 
 
 
+
+
+1893888: Life is 10% what happens to you and 90% how you react to it.  
+
+
+>>>>>>> 80e153acd5b23630df63f657d725ee39d545ee35
+
+
+
+Arun Kumbappillil Ravi : 1893683 :"Life is more beautiful without wife"
+
+<<<<<<< HEAD
 1893975-"life goes on"
  1893905 :prabhjeet kaur:"good"
+=======
+
+1893975-"life goes on".
+
+>>>>>>> 80e153acd5b23630df63f657d725ee39d545ee35
