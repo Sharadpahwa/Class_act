@@ -1,7 +1,7 @@
 This is the class activity
 
 My id Sharadpahwa : 1893664
-my id Parwinder singh  : 1893914 earn money for enjoy not for saving
+my id Parwinder singh  : 1893914 Be happy for this moment. This moment is your life.
 MY id : Karan verma:1893068
 
 Narendra Kumar Muppuri: 1894324 - "Get busy living or get busy dying"
@@ -14,15 +14,7 @@ MY id : Karan verma:1893068 : Eat repeat sleep
 
 MY id : Karan verma:1893068
 Narendra Kumar Muppuri: 1894324 - "Get busy living or get busy dying"
-
-
-
 Keval(183713) : "the person never be successful who run away from their work......!!!!"
-
-
-
-
-
 
 Mahesh Chittimelli:1893655: “First we eat, then we do everything else.”
 Arun : 1893683 : "I am hungry"
