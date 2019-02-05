@@ -57,10 +57,12 @@ Narender reddy:1893402 :"Nothing will work unless you do".
 Savani bhakti: 1899423 - "TRY UNTILL YOU SUCESS."
 Narender reddy:1893402 :"Nothing will work unless you do".
 savani bhakti: 1899423 - "TRY UNTILL YOU SUCESS."
+1893768:"all is well"
+Savani bhakti: 1899423 - "TRY UNTILL YOU SUCESS."
 Savani bhakti: 1899423 - "TRY UNTILL YOU SUCESS."
 1893840 :"cegep montreal"
 Usha Lakhani:1894007: “hello my class...”
 my id : 1893991 : " mad 310"
 1893888: Life is 10% what happens to you and 90% how you react to it. 
 my id : 1893991 : " life is a race..RUN.............RUN............RUN..........."
-1893888: Life is 10% what happens to you and 90% how you react to it. 
+1893888: Life is 10% what happens to you and 90% how you react to it.  
