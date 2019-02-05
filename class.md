@@ -339,9 +339,8 @@ Usha Lakhani:1894007: “hello my class...”
 
 
 
-=======
-=======
->>>>>>> af09c8b72feb61b46166d84b454530c6783cd26e
+
+
 1893404:"life is happy"
 1893584:Shilpa "enjoy every minute of life"
 
@@ -362,52 +361,40 @@ my id : 1893991 : " mad 310"
 1893404:"life is happy"
 1894259:"live the way you love"
 my id : 1893991 : " life is a race..RUN.............RUN............RUN..........."
-<<<<<<< HEAD
-<<<<<<< HEAD
-1893888: Life is 10% what happens to you and 90% how you react to it.  
->>>>>>> 5150b73f35c57d25881743591126d61c8f475cf1
-=======
-<<<<<<< HEAD
-<<<<<<< HEAD
+
 1893888: Life is 10% what happens to you and 90% how you react to it.  
 
-\
 
 
 
-
-
-
-
-1894417:"no one change my life "
-=======
-1893888: Life is 10% what happens to you and 90% how you react to it.  
-
->>>>>>> 88f853f1bb1ed1f32d4adfaef9fed57d0dbd1ef7
-=======
-1893888: Life is 10% what happens to you and 90% how you react to it.  
->>>>>>> 434d0d4c6a6a07a991ccab5e4f9420b5d3803c2b
->>>>>>> 14ba4d5c6f1510bfdd373f0b02b63a638f35efa9
-=======
-
-<<<<<<< HEAD
-=======
 1893888: Life is 10% what happens to you and 90% how you react to it.  
 
 
 
 
 
->>>>>>> 0a066d53608d222c0d18ca8b457641e7472460a3
+
+
+
+
+1894417:"no one change my life
 1893888: Life is 10% what happens to you and 90% how you react to it.  
 
-<<<<<<< HEAD
->>>>>>> 0a066d53608d222c0d18ca8b457641e7472460a3
-=======
->>>>>>> 0a066d53608d222c0d18ca8b457641e7472460a
 
+1893888: Life is 10% what happens to you and 90% how you react to it.  
+
+
+1893888: Life is 10% what happens to you and 90% how you react to it.  
+
+
+
+
+ 
+1893888: Life is 10% what happens to you and 90% how you react to it.  
+
+ 
 
 
 
 1893975-"life goes on"
->>>>>>> 14ba4d5c6f1510bfdd373f0b02b63a638f35efa9
+ 1893905 :prabhjeet kaur:"good"
