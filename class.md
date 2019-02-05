@@ -56,9 +56,7 @@ my id:1893905 Prabhjeet kaur-"ALWAYS BE HAPPY"
  
 Arun : 1893683 : "I am hungry"
  
-=======
-
->>>>>>> 80e153acd5b23630df63f657d725ee39d545ee35
+ 
 Chandan volkaji : 1893288 - "Love the way you live, Live the way you Love"
 sawaran Raj bachu :1894417:"east or west home is best"
 1894324: "Get busy living or get busy dying"
@@ -249,7 +247,7 @@ my id : 1893991 : " life is a race..RUN.............RUN............RUN..........
 
 
 
-<<<<<<< HEAD
+ 
 1893888: Life is 10% what happens to you and 90% how you react to it.  
 
 
@@ -332,8 +330,8 @@ my id : 1893991 : " mad 310"
 
 
 Arun Kumbappillil Ravi : 1893683 :"Life is more beautiful without wife"
-
-<<<<<<< HEAD
+ 
 1893975-"life goes on"
  1893905 :prabhjeet kaur:"good"
+ 1892745:"life is hell"
 
