@@ -68,3 +68,13 @@ my id : 1893991 : " mad 310"
 1894259:"live the way you love"
 my id : 1893991 : " life is a race..RUN.............RUN............RUN..........."
 1893888: Life is 10% what happens to you and 90% how you react to it.  
+
+\
+
+
+
+
+
+
+
+1894417:"no one change my life "
