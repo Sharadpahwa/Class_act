@@ -46,3 +46,5 @@ santhosh kumar cheera:1893831:"hbdfgysgd"
 
 Narender reddy:1893402 :"Nothing will work unless you do".
 >>>>>>> 9963dab5a9fcf1c94f80a7b2f8f33509b69550b2
+
+1893854: "There is always an Alternate for Everything ....."
