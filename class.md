@@ -15,6 +15,54 @@ Mahesh Chittimelli:1893655: “First we eat, then we do everything else.”
 Arun : 1893683 : "I am hungry"
 Chandan volkaji : 1893288 - "Love the way you live, Live the way you Love"
 sawaran Raj bachu :1894417:"east or west home is best"
+1894324: "Get busy living or get busy dying"
+1893655: “First we eat, then we do everything else.”
+>>>>>>> 0e5c0fd2a691619d84f27c43b23ad7fe81b7aa53
+
+
+
+santhosh kumarcheea:1893831:"life is all about laugh"
+
+
+
+
+Narender reddy:1893402 :"Nothing will work unless you do".
+
+MY id : Karan verma:1893068
+
+Narendra Kumar Muppuri: 1894324 - "Get busy living or get busy dying"
+
+
+
+
+Keval(183713) : "the person never be successful who run away from their work......!!!!"
+
+1893681 : empty vessels make more noise
+
+
+
+
+
+Keval(183713) : "the person never be successful who run away from their work......!!!!"
+
+
+
+
+
+
+
+Mahesh Chittimelli:1893655: “First we eat, then we do everything else.”
+Arun : 1893683 : "I am hungry"
+
+
+Chandan volkaji : 1893288 - "Love the way you live, Live the way you Love"
+
+
+
+
+
+
+sawaran Raj bachu :1894417:"east or west home is best"
 
 
 
@@ -27,8 +75,9 @@ Narender reddy:1893402 :"Nothing will work unless you do".
 
 
 
+
 Savani bhakti: 1899423 - "TRY UNTILL YOU SUCESS."
 
 
 
->>>>>>> eae919ca76d335c330148677ff9198171274a364
+
