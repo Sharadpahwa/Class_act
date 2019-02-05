@@ -301,12 +301,11 @@ Savani bhakti: 1899423 - "TRY UNTILL YOU SUCESS."
 1893840 :"cegep montreal"
 1893840 :"cegep montreal"
 Usha Lakhani:1894007: “hello my class...”
-<<<<<<< HEAD
-<<<<<<< HEAD
+ 
 
 
 1894417:"life is not easy"
-1893905
+1893905:prabhjeet kaur 
 
 
 
