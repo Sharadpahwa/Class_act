@@ -11,7 +11,7 @@ My id Sharadpahwa : 1893664
 
 
 
-my id Parwinder singh  : 1893914 "Be happy for this moment. This moment is your life"
+
 
 MY id : Karan verma:1893068
 
@@ -21,7 +21,7 @@ My id Sharadpahwa : 1893664
 
 
 
-my id Parwinder singh  : 1893914 "Be happy for this moment. This moment is your life"
+
 MY id : Karan verma:1893068
 
 My id Sharadpahwa : 1893664
@@ -285,6 +285,11 @@ my id : 1893991 : " life is a race..RUN.............RUN............RUN..........
 
 
 
+<<<<<<< HEAD
+=======
+
+
+>>>>>>> 80e153acd5b23630df63f657d725ee39d545ee35
 1893888: Life is 10% what happens to you and 90% how you react to it.  
 
 
@@ -292,26 +297,38 @@ my id : 1893991 : " life is a race..RUN.............RUN............RUN..........
 
 
 
+
+
+<<<<<<< HEAD
+
+
+1894417:"no one change my life "
+=======
+
+>>>>>>> 80e153acd5b23630df63f657d725ee39d545ee35
+
+1893888: Life is 10% what happens to you and 90% how you react to it.  
+
+
+
+1893888: Life is 10% what happens to you and 90% how you react to it.  
 
 
 
 
 1894417:"no one change my life "
+<<<<<<< HEAD
+=======
+
+>>>>>>> 80e153acd5b23630df63f657d725ee39d545ee35
 
 1893888: Life is 10% what happens to you and 90% how you react to it.  
 
 
+<<<<<<< HEAD
+=======
 
-1893888: Life is 10% what happens to you and 90% how you react to it.  
-
-
-
-
-1894417:"no one change my life "
-
-1893888: Life is 10% what happens to you and 90% how you react to it.  
-
-
+>>>>>>> 80e153acd5b23630df63f657d725ee39d545ee35
 1893888: Life is 10% what happens to you and 90% how you react to it.  
 
 
@@ -337,6 +354,10 @@ my id : 1893991 : " life is a race..RUN.............RUN............RUN..........
 
 1893888: Life is 10% what happens to you and 90% how you react to it.  
 
+<<<<<<< HEAD
+=======
+
+>>>>>>> 80e153acd5b23630df63f657d725ee39d545ee35
 
 
 
