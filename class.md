@@ -14,6 +14,7 @@ MY id : Karan verma:1893068 : Eat repeat sleep
 
 MY id : Karan verma:1893068
 Narendra Kumar Muppuri: 1894324 - "Get busy living or get busy dying"
+<<<<<<< HEAD
 
 
 
@@ -21,6 +22,14 @@ Keval(183713) : "the person never be successful who run away from their work....
 
 1893681 : empty vessels make more noise
 
+=======
+
+
+
+Keval(183713) : "the person never be successful who run away from their work......!!!!"
+
+
+>>>>>>> acae935da7fd0f47b8a730c173dfaecba4a54a96
 
 
 
@@ -40,7 +49,7 @@ sawaran Raj bachu :1894417:"east or west home is best"
 
 
 
-santhosh kumar cheera:1893831:"hbdfgysgd"
+santhosh kumarcheea:1893831:"life is all about laugh"
 <<<<<<< HEAD
 
 =======
