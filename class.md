@@ -13,6 +13,7 @@ My id Sharadpahwa : 1893664
 MY id : Karan verma:1893068 : Eat repeat sleep
 
 MY id : Karan verma:1893068
+<<<<<<< HEAD
 Narendra Kumar Muppuri: 1894324 - "Get busy living or get busy dying"
 <<<<<<< HEAD
 
@@ -56,3 +57,11 @@ santhosh kumarcheea:1893831:"life is all about laugh"
 
 Narender reddy:1893402 :"Nothing will work unless you do".
 >>>>>>> 9963dab5a9fcf1c94f80a7b2f8f33509b69550b2
+=======
+
+
+Savani bhakti: 1899423 - "TRY UNTILL YOU SUCESS."
+
+
+
+>>>>>>> eae919ca76d335c330148677ff9198171274a364
